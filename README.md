@@ -1,4 +1,9 @@
 # abuse-docker
+[DEPRICATION NOTICE] Abuseio-docker is broken and no longer works. At this time we do not expect a new 5.0 build for docker. We have provided an Ansible script to install systems instead.
+
+
+
+
 Standalone image for [AbuseIO 4.2](https://github.com/AbuseIO/AbuseIO) running on NGINX with MySQL, fetchmail and procmail
 
     Here be dragons
